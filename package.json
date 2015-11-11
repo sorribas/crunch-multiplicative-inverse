@@ -1,0 +1,25 @@
+{
+  "name": "crunch-multiplicative-inverse",
+  "version": "0.0.0",
+  "description": "Multiplicative inverse implemented on the number-crunch module.",
+  "main": "index.js",
+  "dependencies": {
+    "number-crunch": "^1.1.0"
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorribas/crunch-multiplicative-inverse.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorribas/crunch-multiplicative-inverse/issues"
+  },
+  "homepage": "https://github.com/sorribas/crunch-multiplicative-inverse#readme"
+}
